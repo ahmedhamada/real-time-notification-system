@@ -10,5 +10,7 @@ import task_of_week.sql
 
 
 #issues under fixing
+
 -error when line break at textarea when append to browser notification
+
 -problem when single or double quates when append to live dom
