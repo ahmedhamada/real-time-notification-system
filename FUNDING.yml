@@ -1,2 +1,2 @@
 # These are supported funding model platforms
-custom: ['javascript:alert``//https://sss.com', 'javascript:alert``//https://sss.com']
+custom: ['javascript:alert()//https://sss.com', 'javascript:alert()//https://sss.com']
